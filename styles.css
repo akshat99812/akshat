@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    background-color: white;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+div {
+   background-color: #E3FDFD; 
+   margin: 0;}
+
+h1{
+    margin: 0 auto;
+    font-family: 'Merriweather', serif;
+}
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 20%;
+
+
+}
+
+.coding1{
+    height: 450;
+    width: 650;
+}
+.coding2{
+    height: 450;
+    width: 650;
+
+}
+.profile_pic{
+    height: 200px;
+}
+
+.lower{
+position: relative;
+bottom: 300px;
+}
+.upper{
+    position: relative;
+    left: 300px;
+    margin-top: 45px;
+}
+
